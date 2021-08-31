@@ -42,6 +42,7 @@ class data{
 data data_base[100];
 
 
+//These are test users. You can use their name and password to Log in
 void testUsers(){
 //User #1
 data_base[0].name = "Labid";
