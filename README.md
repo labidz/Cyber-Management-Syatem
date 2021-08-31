@@ -13,3 +13,15 @@ Functionalities:
 PS : There are some test users already existing in the source code.
      You can use their name and password to Log in or ignore the
      part. 
+     
+     User #1:
+     Name: Labid
+     Password: oki
+     
+     User #2:
+     Name: Chooyan
+     Password: 123
+     
+     User #3:
+     Name: Nafis
+     Password: BD
